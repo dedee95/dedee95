@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dedee95
-- 👀 I’m interested in python
+- 👀 I’m interested in python, html, css, an+d javascript
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on python and javascript
 - 📫 You can contact me on instagram @dedee95
