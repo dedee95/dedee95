@@ -5,6 +5,10 @@
 - 📫 You can contact me on instagram @dedee95
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dedee95&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dedee95&langs_count=5&theme=tokyonight)]()
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedee95&langs_count=5&theme=tokyonight"/>
+</a>
+</p>
 
