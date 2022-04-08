@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on python and javascript
 - 📫 You can contact me on instagram @dedee95
 
-<p align="left">
-  <a href="https://github.com/dedee95">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api username=dedee95&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dedee95&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dedee95&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dedee95&langs_count=5&theme=tokyonight)]()
+
