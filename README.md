@@ -12,6 +12,6 @@
 </a>
 </p>
 <div>
-<a href="https://app.daily.dev/dedee_95"><img src="https://api.daily.dev/devcards/95687c1dcfc74fe4b1fe1b3282f5bd52.png?r=olb" height="180em" alt="Dede Kurniawan's Dev Card"/></a>
+<a href="https://app.daily.dev/dedee_95"><img src="https://api.daily.dev/devcards/95687c1dcfc74fe4b1fe1b3282f5bd52.png?r=olb" height="270em" alt="Dede Kurniawan's Dev Card"/></a>
 </div>
 
