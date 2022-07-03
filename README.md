@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dedee95
 - 👀 I’m interested in Data Science and React JS
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on python and javascript
+- 💞️ I’m looking to collaborate on python and datascience
 - 📫 You can contact me on instagram @dedee95
 
 
