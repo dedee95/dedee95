@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dedee95](https://github.com/dedee95)
 
-- 📝 I regularly write articles on [dekurniawann.medium.com](dekurniawann.medium.com)
+- 📝 I regularly write articles on [dedekurniawann.medium.com](dekurniawann.medium.com)
 
 - 💬 Ask me about **python, machine learning, and deep learning**
 
