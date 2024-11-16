@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Dede Kurniawan</h1>
 <h3 align="center">A passionate data science from Indonesia</h3>
 
-- 🌱 I’m currently learning **python and data science**
+- 🌱 I’m currently learning **Multi Omics Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dedee95](https://github.com/dedee95)
 
 - 📝 I regularly write articles on [dedekurniawann.medium.com](dekurniawann.medium.com)
 
-- 💬 Ask me about **python, machine learning, and deep learning**
+- 💬 Ask me about **python, bioinformatics, and genomics**
 
 - 📫 How to reach me **dedearkun2710@student.ub.ac.id**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dede-kurniawann/](https://www.linkedin.com/in/dede-kurniawann/)
 
-- ⚡ Fun fact **I thin I am humble**
+- ⚡ Slogan: **Just trust your genome!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
